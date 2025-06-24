@@ -33,7 +33,7 @@ html {
 }
 
 section.cima {
-  background: url("/assets/fotos/person-training-athletics.jpg") no-repeat
+  background: url("..//fotos/person-training-athletics.jpg") no-repeat
     center center;
   background-size: cover;
   height: 800px;
