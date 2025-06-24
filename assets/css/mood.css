@@ -1,0 +1,26 @@
+.btn{
+    border: 1px white solid;
+    border-radius: 15px;
+    width: 50px;
+    height: 30px;    
+    background: #fff;
+    text-align: right;
+    
+}
+
+
+body.dark {
+    background-color:#010409;
+    color:white;
+    transition: all 0.4 ease-in-out;
+}
+
+body.light{
+    background-color: white;
+    color: #010409;
+}
+
+header.dark {
+    background-color:#010409;
+    color: white;
+}
